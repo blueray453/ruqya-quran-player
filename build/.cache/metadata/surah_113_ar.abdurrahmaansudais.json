@@ -1,0 +1,94 @@
+{
+  "number": 113,
+  "name": "سُورَةُ الفَلَقِ",
+  "englishName": "Al-Falaq",
+  "englishNameTranslation": "The Dawn",
+  "revelationType": "Meccan",
+  "numberOfAyahs": 5,
+  "ayahs": [
+    {
+      "number": 6226,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/6226.mp3",
+      "audioSecondary": [
+        "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/6226.mp3"
+      ],
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6227,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/6227.mp3",
+      "audioSecondary": [
+        "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/6227.mp3"
+      ],
+      "text": "مِن شَرِّ مَا خَلَقَ",
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6228,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/6228.mp3",
+      "audioSecondary": [
+        "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/6228.mp3"
+      ],
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6229,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/6229.mp3",
+      "audioSecondary": [
+        "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/6229.mp3"
+      ],
+      "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6230,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/6230.mp3",
+      "audioSecondary": [
+        "https://cdn.islamic.network/quran/audio/64/ar.abdurrahmaansudais/6230.mp3"
+      ],
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  "edition": {
+    "identifier": "ar.abdurrahmaansudais",
+    "language": "ar",
+    "name": "عبدالرحمن السديس",
+    "englishName": "Abdurrahmaan As-Sudais",
+    "format": "audio",
+    "type": "versebyverse",
+    "direction": null
+  }
+}

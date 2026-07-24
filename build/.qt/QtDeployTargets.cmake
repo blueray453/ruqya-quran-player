@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ruqya_quran_player_FILE /media/ismail/SSDWorking/_Working/_MyProjects/ruqya/build/ruqya_quran_player)
+set(__QT_DEPLOY_TARGET_ruqya_quran_player_TYPE EXECUTABLE)

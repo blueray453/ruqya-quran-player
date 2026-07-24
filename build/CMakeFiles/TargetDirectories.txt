@@ -1,0 +1,5 @@
+/media/ismail/SSDWorking/_Working/_MyProjects/ruqya/build/CMakeFiles/ruqya_quran_player.dir
+/media/ismail/SSDWorking/_Working/_MyProjects/ruqya/build/CMakeFiles/edit_cache.dir
+/media/ismail/SSDWorking/_Working/_MyProjects/ruqya/build/CMakeFiles/rebuild_cache.dir
+/media/ismail/SSDWorking/_Working/_MyProjects/ruqya/build/CMakeFiles/ruqya_quran_player_autogen_timestamp_deps.dir
+/media/ismail/SSDWorking/_Working/_MyProjects/ruqya/build/CMakeFiles/ruqya_quran_player_autogen.dir
